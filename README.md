@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
-- 💬 You can get in touch with me by email at [shodiyorrv@gmail.com](mailto:abduvaliyevmuhammad41@gmail.com)
+- 💬 You can get in touch with me by email at [shodiyorrv@gmail.com](mailto:shodiyorrv@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
