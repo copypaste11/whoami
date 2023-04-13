@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamuhammad" alt="iamuhammad" /></a> </p>
 
-- 🔭 I’m currently working on [quizbot](https://github.com/IaMuhammad/QuizBot)
+- 🔭 I’m currently working on [quizbot](https://github.com/Eccomerce/Webste)
 
 - 🌱 I’m currently learning **Django Rest Framework**
 
-- 💬 You can get in touch with me by email at [abduvaliyevmuhammad41@gmail.com](mailto:abduvaliyevmuhammad41@gmail.com)
+- 💬 You can get in touch with me by email at [shodiyorrv@gmail.com](mailto:abduvaliyevmuhammad41@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
